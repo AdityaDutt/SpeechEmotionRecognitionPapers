@@ -5,7 +5,6 @@
 - Learning CNN features from DE features for EEG-based emotion recognition, 2019 [Here](https://link.springer.com/article/10.1007/s10044-019-00860-w)
 -  (2019) Context-Aware Emotion Recognition Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)]
 
-  [:white_small_square:Faces :white_small_square:Context]
 
 - (2017) A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
 
