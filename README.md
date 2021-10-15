@@ -8,6 +8,12 @@
 
 - Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)   [:white_small_square:Audio ]
 - Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) [:white_small_square:Audio ]
+- Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Here](https://arxiv.org/pdf/1806.02146.pdf)
+- Using regional saliency for speech emotion recognition, [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655)
+- Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Here](https://arxiv.org/pdf/1910.11174.pdf)
+- End-to-end Triplet Loss based Emotion Embedding System for Speech Emotion Recognition, 2020 [Here](https://arxiv.org/pdf/2010.06200.pdf)
+- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](Autoencoder With Emotion Embedding for Speech Emotion Recognition)
+
 - Direct Modelling of Speech Emotion from Raw Speech, 2019 [Here](https://arxiv.org/pdf/1904.03833.pdf)
 
 - (2017) A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
