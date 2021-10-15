@@ -6,6 +6,9 @@
 -  (2019) Context-Aware Emotion Recognition Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)]
   [:white_small_square:Visual ]
 
+- Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)   [:white_small_square:Audio ]
+- Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) [:white_small_square:Audio ]
+- Direct Modelling of Speech Emotion from Raw Speech, 2019 [Here](https://arxiv.org/pdf/1904.03833.pdf)
 
 - (2017) A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
 
