@@ -1,9 +1,10 @@
 # SpeechEmotionRecognitionPapers
 
 - wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Here](https://arxiv.org/pdf/1904.05862.pdf)
-- Emotion Recognition under Sleep Deprivation Using a Multimodal Residual LSTM Network, 2020 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206957)
-- Learning CNN features from DE features for EEG-based emotion recognition, 2019 [Here](https://link.springer.com/article/10.1007/s10044-019-00860-w)
+  [:white_small_square:Audio ]
+
 -  (2019) Context-Aware Emotion Recognition Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)]
+  [:white_small_square:Visual ]
 
 
 - (2017) A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
