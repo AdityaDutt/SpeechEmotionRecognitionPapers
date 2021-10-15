@@ -13,6 +13,8 @@
 - Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](Autoencoder With Emotion Embedding for Speech Emotion Recognition) [:white_small_square:Audio ]
 
 - Direct Modelling of Speech Emotion from Raw Speech, 2019 [Here](https://arxiv.org/pdf/1904.03833.pdf) [:white_small_square:Audio ]
+- A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Here](https://arxiv.org/pdf/2006.03001.pdf) [:white_small_square:Audio ]
+- 
 
 -  (2019) Context-Aware Emotion Recognition Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)]
   [:white_small_square:Visual ]
