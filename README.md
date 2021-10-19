@@ -1,5 +1,6 @@
 # SpeechEmotionRecognitionPapers
 
+
 - Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)   [:white_small_square:Audio ]
 
 - Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](Autoencoder With Emotion Embedding for Speech Emotion Recognition) [:white_small_square:Audio ]
@@ -40,13 +41,10 @@
   [:white_small_square:Visual :white_small_square:Text ]
 
 - VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis, 2019 [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3799)] 
-
   [:white_small_square:Visual :white_small_square:Text ]
 
 - Cooperative Multimodal Approach to Depression Detection in Twitter, 2019 [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3775)]
-
   [:white_small_square:Visual :white_small_square:Text ]
 
 - Predicting Emotions in User-Generated Videos, 2014 [[paper](http://www.yugangjiang.info/publication/aaai14-emotions.pdf)] 
-
   [:white_small_square:Visual :white_small_square:Audio :white_small_square:Attribute ]
