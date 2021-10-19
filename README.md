@@ -4,7 +4,7 @@
 
 - Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)   [:white_small_square:Audio ]
 
-- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](Autoencoder With Emotion Embedding for Speech Emotion Recognition) [:white_small_square:Audio ]
+- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389805) [:white_small_square:Audio ]
 
 - M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Here](https://arxiv.org/pdf/1911.05659.pdf)
 
