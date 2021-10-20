@@ -1,6 +1,6 @@
 # SpeechEmotionRecognitionPapers
 
-## Speech-Based emotion recognition
+## Speech-Based emotion recognition :studio_microphone:
 
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
  
