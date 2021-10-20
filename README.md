@@ -2,7 +2,7 @@
 
 <img align="center" src="https://camo.githubusercontent.com/d7ecf631b87e28e81820007e46b77650b51e2f756ab90849312b4fb3510371d5/68747470733a2f2f692e696d6775722e636f6d2f663154717669542e6a706567" width= "80%" > </img>
 
-## Speech-Based emotion recognition :sound:
+## Speech-Based emotion recognition
 
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
  
