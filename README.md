@@ -48,8 +48,8 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 ## Audio Visual Emotion Recognition
 
-- Multi-Modal Fusion Emotion Recognition Method of Speech Expression Based on Deep Learning 2021 [Link] (https://www.frontiersin.org/articles/10.3389/fnbot.2021.697634/full)
-
+- Multi-Modal Fusion Emotion Recognition Method of Speech Expression Based on Deep Learning, 2021 [Link](https://www.frontiersin.org/articles/10.3389/fnbot.2021.697634/full)
+ 
 - An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos, 2020 [Link](https://arxiv.org/pdf/2003.00832.pdf)
 
 - Metric Learning-Based Multimodal Audio-Visual Emotion Recognition, 2020 [Link](https://project.dke.maastrichtuniversity.nl/RAI/wp-content/uploads/2019/12/Revised_MERML_IEEE_Multimedia_second_revisions.pdf)
