@@ -35,19 +35,18 @@
 
 ## Audio Visual emotion recognition
 
-- An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos, 2020 [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhaoS.7155.pdf)] 
+- An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos, 2020 [Link](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhaoS.7155.pdf)
 
-- VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3799)] 
+- VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3799) 
 
-- A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses, 2017 [Link](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
+- A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses, 2017 [Link](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf) 
 
-- Predicting Emotions in User-Generated Videos, 2014 [Link](http://www.yugangjiang.info/publication/aaai14-emotions.pdf)] 
+- Predicting Emotions in User-Generated Videos, 2014 [Link](http://www.yugangjiang.info/publication/aaai14-emotions.pdf)
 
 
 ## Audio Text emotion recognition
 
-- Cooperative Multimodal Approach to Depression Detection in Twitter, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3775)]
-  [:white_small_square:Visual :white_small_square:Text ]
+- Cooperative Multimodal Approach to Depression Detection in Twitter, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3775)
 
 ## Audio, Visual, Text emotion recognition
 
