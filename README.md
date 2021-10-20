@@ -96,7 +96,7 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - Multi-Modal Speech Emotion Recognition Using Speech Embeddings and Audio Features, 2019 [Link](https://avsp2019.loria.fr/wp-content/uploads/2019/07/AVSP_2019_paper_2.pdf)
 
-- Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3807)] 
+- Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3807)]
 
 
   
