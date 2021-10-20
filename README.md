@@ -98,21 +98,21 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - Multi-Modal Speech Emotion Recognition Using Speech Embeddings and Audio Features, 2019 [Link](https://avsp2019.loria.fr/wp-content/uploads/2019/07/AVSP_2019_paper_2.pdf)
 
-- Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3807)]
+- Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis, 2019 [Link](https://www.aaai.org/ojs/index.php/AAAI/article/view/3807)
 
 
   
 ## Ethics
   
-- Ethics Sheet for Automatic Emotion Recognition and Sentiment Analysis, 2021 [Here](https://arxiv.org/pdf/2109.08256.pdf)
+- Ethics Sheet for Automatic Emotion Recognition and Sentiment Analysis, 2021 [Link](https://arxiv.org/pdf/2109.08256.pdf)
 
-- Ethics Sheets for AI Tasks, 2021. [Here](https://arxiv.org/pdf/2107.01183.pdf)
+- Ethics Sheets for AI Tasks, 2021. [Link](https://arxiv.org/pdf/2107.01183.pdf)
 
 - Practical and Ethical Considerations in the Effective use of Emotion and Sentiment Lexicons, 2020 [Link](https://arxiv.org/pdf/2011.03492.pdf)
 
-- Developing a Legal Framework for Regulating Emotion AI, 2020 [Here](https://poseidon01.ssrn.com/delivery.php?ID=259097009024030102125001028070107029123007000049022045107098123085099070105071127006031042029004023031050118096028122087126120047006035062014092083023009005122069069008040077021096102094025115089016074065070116005072008107108000119088085065100086115110&EXT=pdf&INDEX=TRUE)
+- Developing a Legal Framework for Regulating Emotion AI, 2020 [Link](https://poseidon01.ssrn.com/delivery.php?ID=259097009024030102125001028070107029123007000049022045107098123085099070105071127006031042029004023031050118096028122087126120047006035062014092083023009005122069069008040077021096102094025115089016074065070116005072008107108000119088085065100086115110&EXT=pdf&INDEX=TRUE)
 
-- Social and Emotion AI: The Potential for Industry Impact, 2019 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925051)
+- Social and Emotion AI: The Potential for Industry Impact, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925051)
 
 
 
@@ -120,7 +120,7 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism, 2021 [Link](https://www.mdpi.com/2079-9292/10/10/1163/htm)
 
-- A Comprehensive Review of Speech Emotion Recognition Systems, 2021 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383000)
+- A Comprehensive Review of Speech Emotion Recognition Systems, 2021 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383000)
 
 - Emotion recognition using multi-modal data and machine learning techniques: A tutorial and review, 2020 [Link](https://reader.elsevier.com/reader/sd/pii/S1566253519302532?token=BE952CE41F70C3BDA701EB5BB6090927BE3C394AB2B8FBC944D08CF6C113A944C3AA43A7A58A0E8F8A3E89C0F982887A&originRegion=us-east-1&originCreation=20211020143315)
 
