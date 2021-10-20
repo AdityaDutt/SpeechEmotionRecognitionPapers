@@ -1,6 +1,6 @@
 # SpeechEmotionRecognitionPapers
 
-<img align="center" src="https://camo.githubusercontent.com/d7ecf631b87e28e81820007e46b77650b51e2f756ab90849312b4fb3510371d5/68747470733a2f2f692e696d6775722e636f6d2f663154717669542e6a706567" width= "60%" > </img>
+<img align="right" src="https://camo.githubusercontent.com/d7ecf631b87e28e81820007e46b77650b51e2f756ab90849312b4fb3510371d5/68747470733a2f2f692e696d6775722e636f6d2f663154717669542e6a706567" width= "80%" > </img>
 
 ## Speech-Based emotion recognition :sound:
 
