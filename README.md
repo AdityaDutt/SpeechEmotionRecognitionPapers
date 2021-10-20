@@ -2,34 +2,40 @@
 
 ## Speech-Based emotion recognition
 
-- Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)   [:white_small_square:Audio ]
+- Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Here](https://arxiv.org/pdf/2102.06357.pdf)
 
-- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389805) [:white_small_square:Audio ]
+- Speech SimCLR: Combining Contrastive and Reconstruction Objective for Self-supervised Speech Representation Learning, 2021. [Here](https://arxiv.org/pdf/2010.13991v2.pdf)
 
-- M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Here](https://arxiv.org/pdf/1911.05659.pdf)
+- Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention, 2021. [Here](https://arxiv.org/pdf/2106.04133v1.pdf)
 
-- End-to-end Triplet Loss based Emotion Embedding System for Speech Emotion Recognition, 2020 [Here](https://arxiv.org/pdf/2010.06200.pdf) [:white_small_square:Audio ]
+- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389805) 
 
-- A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Here](https://arxiv.org/pdf/2006.03001.pdf) [:white_small_square:Audio ]
+- End-to-end Triplet Loss based Emotion Embedding System for Speech Emotion Recognition, 2020 [Here](https://arxiv.org/pdf/2010.06200.pdf) 
+
+- A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Here](https://arxiv.org/pdf/2006.03001.pdf) 
 
 - wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Here](https://arxiv.org/pdf/1904.05862.pdf)
-  [:white_small_square:Audio ]
 
-- Direct Modelling of Speech Emotion from Raw Speech, 2019 [Here](https://arxiv.org/pdf/1904.03833.pdf) [:white_small_square:Audio ]
+- Attention Based Fully Convolutional Network for Speech Emotion Recognition, 2019. [Here](https://arxiv.org/pdf/1806.01506v2.pdf)
 
-- Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, 2019 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) [:white_small_square:Audio ]
+- Direct Modelling of Speech Emotion from Raw Speech, 2019 [Here](https://arxiv.org/pdf/1904.03833.pdf) 
+
+- Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, 2019 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) 
 
 -  Context-Aware Emotion Recognition Networks, 2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)]
-  [:white_small_square:Visual ]
+ 
+- Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Here](https://arxiv.org/pdf/1806.02146.pdf)
 
-- Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Here](https://arxiv.org/pdf/1806.02146.pdf) [:white_small_square:Audio ]
+- Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Here](https://arxiv.org/pdf/1910.11174.pdf) 
 
-- Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Here](https://arxiv.org/pdf/1910.11174.pdf) [:white_small_square:Audio ]
+- Transfer Learning for Improving Speech Emotion Classification Accuracy, 2018. [Here](https://arxiv.org/pdf/1801.06353v4.pdf)
 
-- Using regional saliency for speech emotion recognition, 2017 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) [:white_small_square:Audio ] 
+- Using regional saliency for speech emotion recognition, 2017 [Here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) 
 
 
 ## Multi-modal emotion recognition
+
+- M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Here](https://arxiv.org/pdf/1911.05659.pdf)
 
 - (2017) A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_A_Multimodal_Deep_ICCV_2017_paper.pdf)] 
 
