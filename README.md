@@ -2,7 +2,9 @@
 
 <img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "80%" > </img>
 
-## Speech-Based emotion recognition
+A report of all audio datasets is attached [here]().
+
+## Speech-Based Emotion Recognition
 
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
  
@@ -42,7 +44,7 @@
 
 
 
-## Audio Visual emotion recognition
+## Audio Visual Emotion Recognition
 
 - An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos, 2020 [Link](https://arxiv.org/pdf/2003.00832.pdf)
 
@@ -68,7 +70,7 @@
 
 
 
-## Audio Text emotion recognition
+## Audio Text Emotion Recognition
 
 - Multimodal Speech Emotion Recognition Using Cross Attention with Aligned Audio and Text, 2020 [Link](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2312.pdf)
  
@@ -82,7 +84,7 @@
 
 
 
-## Audio, Visual, Text emotion recognition
+## Audio, Visual, Text Emotion Recognition
 
 - M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Link](https://arxiv.org/pdf/1911.05659.pdf)
 
