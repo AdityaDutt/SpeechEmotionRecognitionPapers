@@ -1,7 +1,8 @@
 
 # SpeechEmotionRecognitionPapers
 This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here]
-(https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).
+(https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).<br>
+
 Emotion recognition has varierty of applications. It can be used in gaming to improve players’ experience. It can monitor people’s emotion state to identify suspicious behavior at public places like airports. It can help stop criminals and potential terrorists pre-emptively. It can be used to better help patients with psychological disorders and psychiatric counselling. It can be used to better help patients with psychological disorders and psychiatric counselling.
 
 
