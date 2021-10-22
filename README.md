@@ -166,7 +166,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 <hr>
 
-<b> If you have any suggested papers, please contact me- aditya.dutt {at} ufl.edu </b>
+<b> If you have any suggested papers, please contact me- ```aditya.dutt {at} ufl.edu ```</b>
 
 <hr>
 
