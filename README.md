@@ -104,9 +104,13 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
   
 ## Ethics
   
+- The Ethics of Emotion in Artificial Intelligence Systems, 2021 [Link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445939)
+
 - Ethics Sheet for Automatic Emotion Recognition and Sentiment Analysis, 2021 [Link](https://arxiv.org/pdf/2109.08256.pdf)
 
 - Ethics Sheets for AI Tasks, 2021. [Link](https://arxiv.org/pdf/2107.01183.pdf)
+
+- The Ethics of AI and Emotional Intelligence, 2020 [Link](https://partnershiponai.org/wp-content/uploads/2021/08/PAI_The-ethics-of-AI-and-emotional-intelligence_073020.pdf)
 
 - Practical and Ethical Considerations in the Effective use of Emotion and Sentiment Lexicons, 2020 [Link](https://arxiv.org/pdf/2011.03492.pdf)
 
