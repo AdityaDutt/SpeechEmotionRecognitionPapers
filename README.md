@@ -9,7 +9,9 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 ## Speech-Based Emotion Recognition
 
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
- 
+
+- Cross corpus multi-lingual speech emotion recognition using ensemble learning, 2021 [Link](https://link.springer.com/article/10.1007/s40747-020-00250-4)
+
 - Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Link](https://arxiv.org/pdf/2102.06357.pdf)
 
 - Speech SimCLR: Combining Contrastive and Reconstruction Objective for Self-supervised Speech Representation Learning, 2021. [Link](https://arxiv.org/pdf/2010.13991v2.pdf)
@@ -25,6 +27,8 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 - A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Link](https://arxiv.org/pdf/2006.03001.pdf) 
 
 - Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers, 2019 [Link](https://reader.elsevier.com/reader/sd/pii/S0167639319302262?token=0646F41FAD388645A14CE8BCF1BEC868059CFF368F5FA63932DA7DEC6CFC2ED4ADCE0C93FE11CD9986A4F9F0FAAA9744&originRegion=us-east-1&originCreation=20211020144301)
+
+- An Ensemble Model for Multi-Level Speech Emotion Recognition, 2019 [Link](https://www.researchgate.net/publication/338190723_An_Ensemble_Model_for_Multi-Level_Speech_Emotion_Recognition)
 
 - wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Link](https://arxiv.org/pdf/1904.05862.pdf)
 
