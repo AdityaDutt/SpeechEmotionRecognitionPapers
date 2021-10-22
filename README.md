@@ -12,57 +12,57 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
  2. Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
 
-- Cross corpus multi-lingual speech emotion recognition using ensemble learning, 2021 [Link](https://link.springer.com/article/10.1007/s40747-020-00250-4)
+3. Cross corpus multi-lingual speech emotion recognition using ensemble learning, 2021 [Link](https://link.springer.com/article/10.1007/s40747-020-00250-4)
 
-- Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Link](https://arxiv.org/pdf/2102.06357.pdf)
+4. Contrastive Unsupervised Learning for Speech Emotion Recognition, 2021 [Link](https://arxiv.org/pdf/2102.06357.pdf)
 
-- Speech SimCLR: Combining Contrastive and Reconstruction Objective for Self-supervised Speech Representation Learning, 2021. [Link](https://arxiv.org/pdf/2010.13991v2.pdf)
+5. Speech SimCLR: Combining Contrastive and Reconstruction Objective for Self-supervised Speech Representation Learning, 2021. [Link](https://arxiv.org/pdf/2010.13991v2.pdf)
 
-- Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention, 2021. [Link](https://arxiv.org/pdf/2106.04133v1.pdf)
+6. Efficient Speech Emotion Recognition Using Multi-Scale CNN and Attention, 2021. [Link](https://arxiv.org/pdf/2106.04133v1.pdf)
 
-- Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389805) 
+7. Autoencoder With Emotion Embedding for Speech Emotion Recognition, 2021 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389805) 
 
-- End-to-end Triplet Loss based Emotion Embedding System for Speech Emotion Recognition, 2020 [Link](https://arxiv.org/pdf/2010.06200.pdf) 
+8. End-to-end Triplet Loss based Emotion Embedding System for Speech Emotion Recognition, 2020 [Link](https://arxiv.org/pdf/2010.06200.pdf) 
 
-- Real-Time Speech Emotion Recognition Using a Pre-trained Image Classification Network: Effects of Bandwidth Reduction and Companding, 2020 [Link](https://www.frontiersin.org/articles/10.3389/fcomp.2020.00014/full)
+9. Real-Time Speech Emotion Recognition Using a Pre-trained Image Classification Network: Effects of Bandwidth Reduction and Companding, 2020 [Link](https://www.frontiersin.org/articles/10.3389/fcomp.2020.00014/full)
  
-- A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Link](https://arxiv.org/pdf/2006.03001.pdf) 
+10. A Siamese Neural Network with Modified Distance Loss For Transfer Learning in Speech Emotion Recognition Kexin Feng, 2020 [Link](https://arxiv.org/pdf/2006.03001.pdf) 
 
-- Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers, 2019 [Link](https://reader.elsevier.com/reader/sd/pii/S0167639319302262?token=0646F41FAD388645A14CE8BCF1BEC868059CFF368F5FA63932DA7DEC6CFC2ED4ADCE0C93FE11CD9986A4F9F0FAAA9744&originRegion=us-east-1&originCreation=20211020144301)
+11. Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers, 2019 [Link](https://reader.elsevier.com/reader/sd/pii/S0167639319302262?token=0646F41FAD388645A14CE8BCF1BEC868059CFF368F5FA63932DA7DEC6CFC2ED4ADCE0C93FE11CD9986A4F9F0FAAA9744&originRegion=us-east-1&originCreation=20211020144301)
 
-- An Ensemble Model for Multi-Level Speech Emotion Recognition, 2019 [Link](https://www.researchgate.net/publication/338190723_An_Ensemble_Model_for_Multi-Level_Speech_Emotion_Recognition)
+12. An Ensemble Model for Multi-Level Speech Emotion Recognition, 2019 [Link](https://www.researchgate.net/publication/338190723_An_Ensemble_Model_for_Multi-Level_Speech_Emotion_Recognition)
 
-- Speech emotion recognition using deep 1D & 2D CNN LSTM networks, 2019 [Link](https://www.sciencedirect.com/science/article/pii/S1746809418302337?casa_token=SqgGsyCheLgAAAAA:PU6A5TxtmHJB5ltkYD0pDrRwefCaLF8J-C2CDbK1J4S5JYL_z8pQx2wGrUQiEBGxm1UqZWEpwA)
+13. Speech emotion recognition using deep 1D & 2D CNN LSTM networks, 2019 [Link](https://www.sciencedirect.com/science/article/pii/S1746809418302337?casa_token=SqgGsyCheLgAAAAA:PU6A5TxtmHJB5ltkYD0pDrRwefCaLF8J-C2CDbK1J4S5JYL_z8pQx2wGrUQiEBGxm1UqZWEpwA)
  
-- wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Link](https://arxiv.org/pdf/1904.05862.pdf)
+14. wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Link](https://arxiv.org/pdf/1904.05862.pdf)
 
-- Attention Based Fully Convolutional Network for Speech Emotion Recognition, 2019. [Link](https://arxiv.org/pdf/1806.01506v2.pdf)
+15. Attention Based Fully Convolutional Network for Speech Emotion Recognition, 2019. [Link](https://arxiv.org/pdf/1806.01506v2.pdf)
 
-- Direct Modelling of Speech Emotion from Raw Speech, 2019 [Link](https://arxiv.org/pdf/1904.03833.pdf) 
+16. Direct Modelling of Speech Emotion from Raw Speech, 2019 [Link](https://arxiv.org/pdf/1904.03833.pdf) 
 
-- Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) 
+17. Improving Speech Emotion Recognition with Unsupervised Representation Learning on Unlabeled Speech, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682541) 
 
--  Context-Aware Emotion Recognition Networks, 2019 [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)
+18. Context-Aware Emotion Recognition Networks, 2019 [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)
  
-- Enhanced speech emotion detection using deep neural networks, 2018 [Link](https://link.springer.com/article/10.1007/s10772-018-09572-8)
+19. Enhanced speech emotion detection using deep neural networks, 2018 [Link](https://link.springer.com/article/10.1007/s10772-018-09572-8)
 
-- Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Link](https://arxiv.org/pdf/1806.02146.pdf)
+20. Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Link](https://arxiv.org/pdf/1806.02146.pdf)
 
-- Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Link](https://arxiv.org/pdf/1910.11174.pdf) 
+21. Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Link](https://arxiv.org/pdf/1910.11174.pdf) 
 
-- Transfer Learning for Improving Speech Emotion Classification Accuracy, 2018. [Link](https://arxiv.org/pdf/1801.06353v4.pdf)
+22. Transfer Learning for Improving Speech Emotion Classification Accuracy, 2018. [Link](https://arxiv.org/pdf/1801.06353v4.pdf)
 
-- Using regional saliency for speech emotion recognition, 2017 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) 
+23. Using regional saliency for speech emotion recognition, 2017 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) 
 
-- Research on speech emotion recognition based on deep auto-encoder, 2016 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7574841)
+24. Research on speech emotion recognition based on deep auto-encoder, 2016 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7574841)
 
-- Shape-based modeling of the fundamental frequency contour for emotion detection in speech, 2014 [Link](https://www.sciencedirect.com/science/article/pii/S0885230813000521?casa_token=MUHogv7F1VEAAAAA:7BDaP4oCuq-Ipn8p28Kn6gZbmavm8T1NcRSejN0TOdlai7xhMIBkbwEWYqv06nZkXXEgSAs3bQ)
+25. Shape-based modeling of the fundamental frequency contour for emotion detection in speech, 2014 [Link](https://www.sciencedirect.com/science/article/pii/S0885230813000521?casa_token=MUHogv7F1VEAAAAA:7BDaP4oCuq-Ipn8p28Kn6gZbmavm8T1NcRSejN0TOdlai7xhMIBkbwEWYqv06nZkXXEgSAs3bQ)
 
-- Speech emotion recognition approaches in human computer interaction, 2011 [Link](https://link.springer.com/article/10.1007/s11235-011-9624-z)
+26. Speech emotion recognition approaches in human computer interaction, 2011 [Link](https://link.springer.com/article/10.1007/s11235-011-9624-z)
 
-- Speaker Independent Speech Emotion Recognition by Ensemble Classification., 2005 [Link](https://www.researchgate.net/publication/221266051_Speaker_Independent_Speech_Emotion_Recognition_by_Ensemble_Classification)
+27. Speaker Independent Speech Emotion Recognition by Ensemble Classification., 2005 [Link](https://www.researchgate.net/publication/221266051_Speaker_Independent_Speech_Emotion_Recognition_by_Ensemble_Classification)
 
-- (Original Methods) Speech emotion recognition using hidden Markov models, 2003 [Here](https://reader.elsevier.com/reader/sd/pii/S0167639303000992?token=DACAD7034E10269200DAFB7F34DF76056D13CEFF6665176B9F02AD8697B4AABA6EB6FC0869A57B652F21BF9FD3874F29&originRegion=us-east-1&originCreation=20211022004245)
+28. (Original Methods) Speech emotion recognition using hidden Markov models, 2003 [Here](https://reader.elsevier.com/reader/sd/pii/S0167639303000992?token=DACAD7034E10269200DAFB7F34DF76056D13CEFF6665176B9F02AD8697B4AABA6EB6FC0869A57B652F21BF9FD3874F29&originRegion=us-east-1&originCreation=20211022004245)
 
 
 
