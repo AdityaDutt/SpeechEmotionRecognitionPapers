@@ -1,6 +1,6 @@
 
 # SpeechEmotionRecognitionPapers
-##### This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).<br>
+#### This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).<br>
 
 <hr>
 
