@@ -48,6 +48,14 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - Using regional saliency for speech emotion recognition, 2017 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) 
 
+- Research on speech emotion recognition based on deep auto-encoder, 2016 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7574841)
+
+- Speech emotion recognition approaches in human computer interaction, 2011 [Link](https://link.springer.com/article/10.1007/s11235-011-9624-z)
+
+- Speaker Independent Speech Emotion Recognition by Ensemble Classification., 2005 [Link](https://www.researchgate.net/publication/221266051_Speaker_Independent_Speech_Emotion_Recognition_by_Ensemble_Classification)
+
+- (Original Methods) Speech emotion recognition using hidden Markov models, 2003 [Here](https://reader.elsevier.com/reader/sd/pii/S0167639303000992?token=DACAD7034E10269200DAFB7F34DF76056D13CEFF6665176B9F02AD8697B4AABA6EB6FC0869A57B652F21BF9FD3874F29&originRegion=us-east-1&originCreation=20211022004245)
+
 
 
 ## Audio Visual Emotion Recognition
