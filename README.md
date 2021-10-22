@@ -6,7 +6,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 <hr>
 
-## Speech-Based Emotion Recognition (24 papers)
+## Speech-Based Emotion Recognition (28 papers)
 
 - Deep Learning Techniques for Speech Emotion Recognition, from Databases to Models, 2021 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916477/)
 
@@ -32,6 +32,8 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 - An Ensemble Model for Multi-Level Speech Emotion Recognition, 2019 [Link](https://www.researchgate.net/publication/338190723_An_Ensemble_Model_for_Multi-Level_Speech_Emotion_Recognition)
 
+- Speech emotion recognition using deep 1D & 2D CNN LSTM networks, 2019 [Link](https://www.sciencedirect.com/science/article/pii/S1746809418302337?casa_token=SqgGsyCheLgAAAAA:PU6A5TxtmHJB5ltkYD0pDrRwefCaLF8J-C2CDbK1J4S5JYL_z8pQx2wGrUQiEBGxm1UqZWEpwA)
+ 
 - wav2vec: Unsupervised Pre-training for Speech Recognition, 2019 [Link](https://arxiv.org/pdf/1904.05862.pdf)
 
 - Attention Based Fully Convolutional Network for Speech Emotion Recognition, 2019. [Link](https://arxiv.org/pdf/1806.01506v2.pdf)
@@ -106,7 +108,9 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Audio, Visual, Text Emotion Recognition (5 papers)
+## Audio, Visual, Text Emotion Recognition (6 papers)
+
+- Speech, Voice, Text, And Meaning: A Multidisciplinary Approach to Interview Data through the use of digital tools, 2020 [Link](https://dl.acm.org/doi/abs/10.1145/3395035.3425657?casa_token=_ShEdqyraxgAAAAA:HgOOmO6Nx7eG7t4_7SBifXB3SMagtp4PYE35-Nwjm7BiCJsLW8kDy3BDtSX8Jv3fF6xqfV-Af4vI)
 
 - M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Link](https://arxiv.org/pdf/1911.05659.pdf)
 
@@ -146,7 +150,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Review papers (10 papers)
+## Review papers (12 papers)
 
 - Survey on Machine Learning in Speech Emotion Recognition and Vision Systems Using a Recurrent Neural Network (RNN), 2021 [Link](https://link.springer.com/article/10.1007/s11831-021-09647-x)
 
