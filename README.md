@@ -8,9 +8,9 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 ## Speech-Based Emotion Recognition (28 papers)
 
-- Deep Learning Techniques for Speech Emotion Recognition, from Databases to Models, 2021 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916477/)
+<li> Deep Learning Techniques for Speech Emotion Recognition, from Databases to Models, 2021 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916477/) </li>
 
-- Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
+<li> Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf) </li>
 
 - Cross corpus multi-lingual speech emotion recognition using ensemble learning, 2021 [Link](https://link.springer.com/article/10.1007/s40747-020-00250-4)
 
