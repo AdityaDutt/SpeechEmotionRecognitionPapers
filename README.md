@@ -1,7 +1,8 @@
+<img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "80%" > </img>
+
 # SpeechEmotionRecognitionPapers
 A collection of papers related to Emotion Recognition.
 
-<img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "60%" > </img>
 
 A report of all audio datasets is attached [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).
 
