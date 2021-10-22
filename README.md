@@ -42,6 +42,8 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 -  Context-Aware Emotion Recognition Networks, 2019 [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Context-Aware_Emotion_Recognition_Networks_ICCV_2019_paper.pdf)
  
+- Enhanced speech emotion detection using deep neural networks, 2018 [Link](https://link.springer.com/article/10.1007/s10772-018-09572-8)
+
 - Adversarial Auto-Encoders for Speech Based Emotion Recognition, 2018 [Link](https://arxiv.org/pdf/1806.02146.pdf)
 
 - Speech Emotion Recognition via Contrastive Loss under Siamese Networks, 2018 [Link](https://arxiv.org/pdf/1910.11174.pdf) 
@@ -51,6 +53,8 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 - Using regional saliency for speech emotion recognition, 2017 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952655) 
 
 - Research on speech emotion recognition based on deep auto-encoder, 2016 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7574841)
+
+- Shape-based modeling of the fundamental frequency contour for emotion detection in speech, 2014 [Link](https://www.sciencedirect.com/science/article/pii/S0885230813000521?casa_token=MUHogv7F1VEAAAAA:7BDaP4oCuq-Ipn8p28Kn6gZbmavm8T1NcRSejN0TOdlai7xhMIBkbwEWYqv06nZkXXEgSAs3bQ)
 
 - Speech emotion recognition approaches in human computer interaction, 2011 [Link](https://link.springer.com/article/10.1007/s11235-011-9624-z)
 
@@ -142,7 +146,9 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Others (10 papers)
+## Review papers (10 papers)
+
+- Survey on Machine Learning in Speech Emotion Recognition and Vision Systems Using a Recurrent Neural Network (RNN), 2021 [Link](https://link.springer.com/article/10.1007/s11831-021-09647-x)
 
 - A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism, 2021 [Link](https://www.mdpi.com/2079-9292/10/10/1163/htm)
 
@@ -159,6 +165,8 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 - Emotion Recognition using Multimodal Residual LSTM Network, 2019 [Link](https://dl.acm.org/doi/pdf/10.1145/3343031.3350871)
 
 - Deep Learning Techniques for Speech Emotion Recognition: A Review, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733432)
+
+- Emotion detection from text and speech: a survey, 2018 [Link](https://link.springer.com/article/10.1007/s13278-018-0505-2)
 
 - A review of affective computing: From unimodal analysis to multimodal fusion, 2017 [Link](https://reader.elsevier.com/reader/sd/pii/S1566253517300738?token=C2051B5E384D47135E35ACD6D2C5CA89A8D3F778F4BA7CCBCB35102202F6AF691603F7076CA00B0F025BAE88DFB1C21F&originRegion=us-east-1&originCreation=20211022002648)
 
