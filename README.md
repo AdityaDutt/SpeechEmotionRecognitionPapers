@@ -134,6 +134,12 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - (Article By MIT Sloan) Emotion AI explained, 2019 [Link](https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained)
 
+- China is home to a growing market for dubious “emotion recognition” technology, 2021 [Link](https://restofworld.org/2021/chinas-emotion-recognition-tech/)
+
+- 'Every smile you fake' — an AI emotion-recognition system can assess how 'happy' China's workers are in the office, 2021 [Link](https://www.insider.com/ai-emotion-recognition-system-tracks-how-happy-chinas-workers-are-2021-6)
+
+
+
 ## Others
 
 - A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism, 2021 [Link](https://www.mdpi.com/2079-9292/10/10/1163/htm)
@@ -156,7 +162,6 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/multimodal_emotion_recognition.pdf
 
-- China is home to a growing market for dubious “emotion recognition” technology [Link](https://restofworld.org/2021/chinas-emotion-recognition-tech/)
 
 
 <hr>
