@@ -122,7 +122,9 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - Social and Emotion AI: The Potential for Industry Impact, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925051)
 
-- (Article by Harvard Business Review) The Risks of Using AI to Interpret Human Emotions, 2019 [Link](https://hbr.org/2019/11/the-risks-of-using-ai-to-interpret-human-emotions)
+- (Article By Harvard Business Review) The Risks of Using AI to Interpret Human Emotions, 2019 [Link](https://hbr.org/2019/11/the-risks-of-using-ai-to-interpret-human-emotions)
+
+- (Article By MIT Sloan) Emotion AI explained, 2019 [Link](https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained)
 
 ## Others
 
