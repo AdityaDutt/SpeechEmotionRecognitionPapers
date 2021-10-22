@@ -2,7 +2,9 @@
 # SpeechEmotionRecognitionPapers
 This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf).<br>
 
-Emotion recognition has varierty of applications. It can be used in gaming to improve players’ experience. It can monitor people’s emotion state to identify suspicious behavior at public places like airports. It can help stop criminals and potential terrorists pre-emptively. It can be used to better help patients with psychological disorders and psychiatric counselling. It can be used to better help patients with psychological disorders and psychiatric counselling.
+Speech Emotion Recognition has varierty of applications (SER). It can be used in gaming to improve players’ experience. It can monitor people’s emotion state to identify suspicious behavior at public places like airports. It can help stop criminals and potential terrorists pre-emptively. It can be used to better help patients with psychological disorders and psychiatric counselling. It can be used to better help patients with psychological disorders and psychiatric counselling. Another application is in gaming. <br>
+
+My personal interests in SER include natural speech recognition conditoned on emotion. Recent deep leaarning models geneate natural speech by conditionaing speech on spectrograms of a particular voice. Similarly, they can be conditioned on spectrograms of a particualr emotion to synthesize a more lifelike voice. I am also interested in using emotion detection in speech recognition. It can help virtual assistant to understan users better when the meaning of their words is ambiguous.
 
 
 <img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "80%" > </img>
