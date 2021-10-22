@@ -137,3 +137,6 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 - A review of affective computing: From unimodal analysis to multimodal fusion, 2017 [Link](https://reader.elsevier.com/reader/sd/pii/S1566253517300738?token=C2051B5E384D47135E35ACD6D2C5CA89A8D3F778F4BA7CCBCB35102202F6AF691603F7076CA00B0F025BAE88DFB1C21F&originRegion=us-east-1&originCreation=20211022002648)
 
 - https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/multimodal_emotion_recognition.pdf
+
+
+If you have any suggested papers, please contact me- aditya.dutt {at} ufl.edu
