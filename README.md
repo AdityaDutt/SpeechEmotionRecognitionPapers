@@ -6,7 +6,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 <hr>
 
-## Speech-Based Emotion Recognition
+## Speech-Based Emotion Recognition (24 papers)
 
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings, 2021 [Link](https://arxiv.org/pdf/2104.03502.pdf)
 
@@ -58,7 +58,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Audio Visual Emotion Recognition
+## Audio Visual Emotion Recognition (12 papers)
 
 - Multi-Modal Fusion Emotion Recognition Method of Speech Expression Based on Deep Learning, 2021 [Link](https://www.frontiersin.org/articles/10.3389/fnbot.2021.697634/full)
  
@@ -86,7 +86,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Audio Text Emotion Recognition
+## Audio Text Emotion Recognition (5 papers)
 
 - Multimodal Speech Emotion Recognition Using Cross Attention with Aligned Audio and Text, 2020 [Link](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2312.pdf)
  
@@ -100,7 +100,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Audio, Visual, Text Emotion Recognition
+## Audio, Visual, Text Emotion Recognition (5 papers)
 
 - M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues, 2020 [Link](https://arxiv.org/pdf/1911.05659.pdf)
 
@@ -114,7 +114,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
   
-## Ethical AI in Emotion Recognition
+## Ethical AI in Emotion Recognition (7 papers, 4 articles)
   
 - The Ethics of Emotion in Artificial Intelligence Systems, 2021 [Link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445939)
 
@@ -140,7 +140,7 @@ A collection of papers related to Emotion Recognition. A report of all audio dat
 
 
 
-## Others
+## Others (10 papers)
 
 - A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism, 2021 [Link](https://www.mdpi.com/2079-9292/10/10/1163/htm)
 
