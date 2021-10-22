@@ -7,7 +7,7 @@ Speech Emotion Recognition has a varierty of applications (SER). It can be used 
 My personal interests SER include natural speech generation conditoned on emotion. The state-of-the-art text-to-speech (TTS) deep learning models like tacotron and wavenet generate natural speech by conditioning speech on spectrograms/mel-spectrograms of a particular voice. Similarly, they can be conditioned on spectrograms of a particular emotion to synthesize a more lifelike voice. I am also interested in using emotion detection in speech recognition. It can help virtual assistant to understand users better when the meaning of their words is ambiguous. Lastly, it is useful in detecting suspicious behavior at public places.
 
 
-<img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "80%" > </img>
+<img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png" width= "100%" > </img>
 
 <hr>
 
