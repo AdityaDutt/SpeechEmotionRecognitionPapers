@@ -139,4 +139,7 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 - https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/multimodal_emotion_recognition.pdf
 
 
+<hr>
+
 If you have any suggested papers, please contact me- aditya.dutt {at} ufl.edu
+
