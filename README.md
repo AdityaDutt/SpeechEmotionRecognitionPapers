@@ -114,7 +114,7 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 
   
-## Ethics
+## Ethical AI in Emotion Recognition
   
 - The Ethics of Emotion in Artificial Intelligence Systems, 2021 [Link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445939)
 
