@@ -156,6 +156,8 @@ A report of all audio datasets is attached [here](https://github.com/AdityaDutt/
 
 - https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/multimodal_emotion_recognition.pdf
 
+- China is home to a growing market for dubious “emotion recognition” technology [Link](https://restofworld.org/2021/chinas-emotion-recognition-tech/)
+
 
 <hr>
 
