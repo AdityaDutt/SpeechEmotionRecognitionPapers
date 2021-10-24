@@ -172,7 +172,7 @@ My personal interests SER include natural speech generation conditoned on emotio
 
 6. A survey of facial expression recognition based on deep learning, 2020. [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9248180)
 
-7. Speech Emotion Recognition Using Deep Learning Techniques: A Review, 2019 [Link](https://xplorestaging.ieee.org/ielx7/6287639/8600701/08805181.pdf?arnumber=8805181&tag=1)
+7. Speech Emotion Recognition Using Deep Learning Techniques: A Review, 2019 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805181)
 
 8. Emotion Recognition using Multimodal Residual LSTM Network, 2019 [Link](https://dl.acm.org/doi/pdf/10.1145/3343031.3350871)
 
