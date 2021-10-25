@@ -4,6 +4,7 @@ This repository contains a collection of papers related to Emotion Recognition. 
 
 <hr>
 
+## Introduction
 I gathered these resources for my PhD literature review. In this curated list of papers, I have focused on speech emotion recognition, multi-modal emotion recognition (text + face + speech), and ethics in emotion recogntion. I am starting the review based on these papers, but I will keep expanding the list as I will find other good papers. Feel free to contact me if I have missed some papers.
 
 My personal interests in SER include natural speech generation conditoned on emotion. The state-of-the-art text-to-speech (TTS) deep learning models like tacotron and wavenet generate natural speech by conditioning speech on spectrograms/mel-spectrograms of a particular voice. Similarly, they can be conditioned on spectrograms of a particular emotion to synthesize a more lifelike voice. I am also interested in using emotion detection in speech recognition. It can help virtual assistant to understand users better when the meaning of their words is ambiguous. Lastly, it is useful in monitoring people’s emotional state to identify suspicious behavior at public places like airports.
