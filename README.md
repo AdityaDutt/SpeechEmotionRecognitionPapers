@@ -1,12 +1,16 @@
 
 # SpeechEmotionRecognitionPapers
-<b> This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf). </b> <br>
+This repository contains a collection of papers related to Emotion Recognition. A report of all audio datasets is present [here](https://github.com/AdityaDutt/SpeechEmotionRecognitionPapers/blob/main/IndividualStudy_Spring2021_Audio_datasets.pdf). <br>
 
 <hr>
 
-Speech Emotion Recognition has a varierty of applications (SER). It can be used in gaming to improve players’ experience. It can monitor people’s emotional state to identify suspicious behavior at public places like airports. It can help stop criminals and potential terrorists pre-emptively. It can be used to better help patients with psychological disorders and psychiatric counselling. It can be used to better help patients with psychological disorders and psychiatric counselling. Another application is in gaming.
+I gathered these resources for my PhD literature review. In this curated list of paper, I have focused on speech emotion recognition, multi-modal emotion recognition (text + face + speech), and ethics in emotion recogntion. I am starting the literature review based on these papers. But I will keep expanding the list as I will find other good papers. Feel free to contact me if I have missed some papers. All the papers are divided into different sections. In each section, papersare arranged in a chronological order.
 
-My personal interests SER include natural speech generation conditoned on emotion. The state-of-the-art text-to-speech (TTS) deep learning models like tacotron and wavenet generate natural speech by conditioning speech on spectrograms/mel-spectrograms of a particular voice. Similarly, they can be conditioned on spectrograms of a particular emotion to synthesize a more lifelike voice. I am also interested in using emotion detection in speech recognition. It can help virtual assistant to understand users better when the meaning of their words is ambiguous. Lastly, it is useful in detecting suspicious behavior at public places.
+My personal interests SER include natural speech generation conditoned on emotion. The state-of-the-art text-to-speech (TTS) deep learning models like tacotron and wavenet generate natural speech by conditioning speech on spectrograms/mel-spectrograms of a particular voice. Similarly, they can be conditioned on spectrograms of a particular emotion to synthesize a more lifelike voice. I am also interested in using emotion detection in speech recognition. It can help virtual assistant to understand users better when the meaning of their words is ambiguous. Lastly, it is useful in monitoring people’s emotional state to identify suspicious behavior at public places like airports.
+
+There are few other applications of Speech Emotion Recognition. It is being used in gaming to improve players’ experience. Gaimg companies are substantially investing in Emotion AI using eye tracking, facial coding, and voice analysis to recognize and interpret human emotions. It can be used to better help patients with psychological disorders and psychiatric counselling.
+
+Annette Zimmermann, the renowned Gartner analyst, stated - “By 2022, your personal device will know more about your emotional state than your own family.” Emotion AI is rapidly advancing. According to Gartner, ten percent of personal devices worldwide will possess Emotion AI features on-device or via cloud services by 2022.
 
 <hr>
 
